@@ -7,7 +7,7 @@
     		http://www.springframework.org/schema/webflow
     		http://www.springframework.org/schema/webflow/spring-webflow-2.0.xsd"
     	
-    	start-state="findExistingPlayerForm">
+   start-state="findExistingPlayerForm">
     
     <view-state id="findExistingPlayerForm">
         <on-render>
